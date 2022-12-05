@@ -1,3 +1,3 @@
-# pj2
+# Second_PJ
 mini project2
 
